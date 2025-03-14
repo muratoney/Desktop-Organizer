@@ -1,0 +1,15 @@
+# Desktop Organizer
+
+Desktop Organizer is a simple tool designed to help you keep your desktop clean and organized. It automatically sorts files on your desktop into categorized folders based on their file types.
+
+## Features
+
+- Automatically organizes files into folders based on file type
+- Customizable folder names and sorting rules
+- Easy to use and configure
+
+## Installation
+
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Run the setup script to install dependencies.
