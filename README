@@ -7,6 +7,7 @@ Desktop Organizer is a simple tool designed to help you keep your desktop clean 
 - Automatically organizes files into folders based on file type
 - Customizable folder names and sorting rules
 - Easy to use and configure
+- Will not organize folders. Unless folder has 'Photos' in its name. It wil lthen put that folder into the 'Images' folder.
 
 ## Installation
 
